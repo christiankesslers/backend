@@ -7,8 +7,13 @@ Live API endpoint: <http://moonbase.info.gf:3000/v1>
 ## API Endpoints
 
 ### Active Endpoints:
-/messages --> retrieves all messages from postgresdb
+- /messages endpoint -- <http://moonbase.info.gf:3000/v1/messages>
+
+-- the messages endpoint retrieves all messages from postgresdb
 
 ### Under Construction Endpoints:
-/userId --> generates a unique userId key to store in postgres db & to use as an endpoint for generating a userId and storing user's of front-end clients 
+- /userId endpoint generates a userId key when you make a POST request to it with {data}[^1].
 
+-- the userId endpoint generates a unique userId key to store in postgresdb
+
+[^1]: {data} for example could = username + email 

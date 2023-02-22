@@ -23,12 +23,12 @@ Maybe even with Sign-up for Beta Test Working.. 🤯 ikr.
  **Sign on as DAO Treasury Member / Multi-Sig 🔑 Holder**
 <img src="https://user-images.githubusercontent.com/118377684/220560015-195d0ca8-4861-42a1-8d86-f4fc77c1a8f2.png" width="650" height="350" />
 
-### The DAO 🤙 Functionality - **Priority #2**
+### 💠 The DAO Functionality - **Priority #2**
   - **2.1** Organizations / Councils / Etc;
   - **2.2** Multi-Sig Key Holders, Delegators & Stakers[^2]
   - **2.3** NFT Gated Areas/Bots?
 
-### The CRM/CMS Aspect 📑 - **Priority #3**
+### 📑 The CRM/CMS Aspect - **Priority #3**
   
   - **3.1** ToDo / Tasks / Projects
     - 3.1.1 - Calender, Timezones, Clock, Event Planner

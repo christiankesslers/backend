@@ -15,25 +15,25 @@
 
 **PRIMARY GOAL** - A Functional Demonstration Application w/ Beta Testing Signup Working @ http://moonbase.app :exclamation:
 
-## API Endpoints 
+## MoonBase App API Endpoints Roadmap 
 
-### Auth - Authentication & User Management / Support & Issue Channels, 
-  - 1.1) SSO - Single Sign On, thirdweb, AuthSignal, userId + postgres, Etc;
-  - 1.2) SSX - Sign on as DAO Member, Multi-Sig Key Holder
+### Auth - Authentication & User Management / Support & Issue Channels, **Priority #1**
+  - **1.1** SSO - Single Sign On, thirdweb, AuthSignal, userId + postgres, Etc;
+  - **1.2** SSX - Sign on as DAO Member, Multi-Sig Key Holder
 
-### The DAO Functionality - Priority #2
-  - 2.1) Organizations / Councils / Etc;
-  - 2.2) Multi-Sig Key Holders, Delegators & Stakers
-  - 2.3) NFT Gated Areas?
+### The DAO Functionality - **Priority #2**
+  - **2.1** Organizations / Councils / Etc;
+  - **2.2** Multi-Sig Key Holders, Delegators & Stakers
+  - **2.3** NFT Gated Areas?
 
-### The CRM/CMS Aspect - Priority #3
+### The CRM/CMS Aspect - **Priority #3**
   
-  - 3.1 ToDo / Tasks / Projects
+  - **3.1** ToDo / Tasks / Projects
     - 3.1.1 - Calender, Timezones, Clock, Event Planner
     - 3.1.2 - Trollbox, Chat, news feed?
     - 3.1.3 - RetroPGF, Quadratic Public Goods Funding Initiatives
     
-  - 3.2 Teams / Groups / Members 
+  - **3.2** Teams / Groups / Members 
     - 3.2.1 - Sub Group, Collaborative team session without DAO
     - 3.2.2 - Team Management Dashboard / Interface
     - 3.2.3 - Demo of DAO Rage Quit Option & Member Vesting Options

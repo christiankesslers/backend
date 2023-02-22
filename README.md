@@ -11,7 +11,7 @@ Maybe even with Sign-up for Beta Test Working.. 🤯 ikr.
 
 
 ## Live API Endpoint: <http://moonbase.info.gf:3000/v1>
-### View /messages Endpoint: 
+### View /messages Endpoint: <http://moonbase.info.gf:3000/v1/messages>
 ![image](https://user-images.githubusercontent.com/118377684/220571986-6f627057-a46b-43f1-aa4e-50149cf08f64.png)
 
 ## 🗺️ Roadmap 

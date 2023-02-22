@@ -24,7 +24,7 @@
 ### The DAO Functionality - **Priority #2**
   - **2.1** Organizations / Councils / Etc;
   - **2.2** Multi-Sig Key Holders, Delegators & Stakers
-  - **2.3** NFT Gated Areas?
+  - **2.3** NFT Gated Areas/Bots?
 
 ### The CRM/CMS Aspect - **Priority #3**
   

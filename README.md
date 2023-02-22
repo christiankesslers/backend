@@ -1,8 +1,14 @@
-# MoonBase.App Backend API Server
+# MoonBase.App Backend API
 
 [![Build status](https://ci.appveyor.com/api/projects/status/h2uvmx9yft68k6b2?svg=true)](https://ci.appveyor.com/project/chidimo/express-api-template)
 
-**PRIMARY GOAL** - A Functional Demonstration Application w/ Beta Testing Signup Working @ http://moonbase.app :exclamation:
+**PRIMARY GOAL** - A Functional Demonstration Application 
+Maybe even with Sign-up for Beta Test Working.. 🤯 ikr.
+
+<img src="https://user-images.githubusercontent.com/118377684/220564440-a1a19412-3d7f-4326-98ed-eb6fac9d07ae.png" width="350" height="350" />
+
+**http://moonbase.app**
+
 
 ## Live API Endpoint: <http://moonbase.info.gf:3000/v1>
 

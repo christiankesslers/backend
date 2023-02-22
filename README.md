@@ -10,7 +10,7 @@
 
 ### 👥 Auth - Authentication & User Management / Support & Issue Channels, **Priority #1**
   - **1.1** SSO - Single Sign On, thirdweb, AuthSignal, userId + postgres, Etc;
-  - **1.2** SSX[^1] - 
+  - **1.2** SSX[^1] - https://docs.ssx.id/reference/ssx-serverless/ssx-serverless.ssxsessioncrudconfig
   
  **Sign on as DAO Treasury Member / Multi-Sig 🔑 Holder**
 <img src="https://user-images.githubusercontent.com/118377684/220560015-195d0ca8-4861-42a1-8d86-f4fc77c1a8f2.png" width="650" height="350" />

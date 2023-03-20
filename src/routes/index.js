@@ -31,7 +31,7 @@ indexRouter.post('/tasks', modifyMessage, performAsyncAction, addMessage);
 
 // /reports/gantt endpoint
 indexRouter.get('/reports/gantt', messagesPage);
-indexRouter.post('/reports/gantt', modifyMessage, performAsycAction, addMessage);
+indexRouter.post('/reports/gantt', modifyMessage, performAsyncAction, addMessage);
 
 // /reports/kanban endpoint
 indexRouter.get('/reports/kanban', messagesPage);
@@ -39,6 +39,18 @@ indexRouter.get('/reports/kanban', messagesPage);
 
 // /reports/list endpoint
 indexRouter.get('/reports/list', messagesPage);
+
+// /teams/{team_id} endpoint
+indexRouter.get('/teams/{team_id}', messagesPage);
+indexRouter.post('/teams/{team_id}', modifyMessage, performAsyncAction, addMessage);
+
+// /teams/{team_id}/members endpoints
+indexRouter.get('/teams/{team_id}/members', messagesPage);
+indexRouter.post('/teams/{team_id}/members', modifyMessage, performAsyncAction, addMessage);
+
+// /teams/{team_id}/projects endpoints
+indexRouter.get('/teams/{team_id}/projects', messagesPage);
+indexRouter.post('/teams/{team_id}/projects', modifyMessage, performAsyncAction, addMessage);
 
 
 

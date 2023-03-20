@@ -29,5 +29,17 @@ indexRouter.post('/auth/forgot-password', modifyMessage, performAsyncAction, add
 indexRouter.get('/tasks', messagesPage);
 indexRouter.post('/tasks', modifyMessage, performAsyncAction, addMessage);
 
+// /reports/gantt endpoint
+indexRouter.get('/reports/gantt', messagesPage);
+indexRouter.post('/reports/gantt', modifyMessage, performAsycAction, addMessage);
+
+// /reports/kanban endpoint
+indexRouter.get('/reports/kanban', messagesPage);
+
+
+// /reports/list endpoint
+indexRouter.get('/reports/list', messagesPage);
+
+
 
 export default indexRouter;

@@ -1,31 +1,46 @@
-# Express API template
+# MoonBase.App Backend API
 
-[![Build Status](https://travis-ci.com/chidimo/Express-API-Template.svg?token=vRPqNDsj84fjiYCWzphq&branch=master)](https://travis-ci.com/chidimo/Express-API-Template)
-[![Coverage Status](https://coveralls.io/repos/github/chidimo/Express-API-Template/badge.svg?branch=master)](https://coveralls.io/github/chidimo/Express-API-Template?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b6cf857f9c2ff789743e/maintainability)](https://codeclimate.com/github/chidimo/Express-API-Template/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b6cf857f9c2ff789743e/test_coverage)](https://codeclimate.com/github/chidimo/Express-API-Template/test_coverage)
 [![Build status](https://ci.appveyor.com/api/projects/status/h2uvmx9yft68k6b2?svg=true)](https://ci.appveyor.com/project/chidimo/express-api-template)
 
-Live API endpoint: <https://express-api-template.herokuapp.com/v1>
+**PRIMARY GOAL** - A Functional Demonstration Application 
+Maybe even with Sign-up for Beta Test Working.. 🤯 ikr.
 
-Read the article here <https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/>
+<img src="https://user-images.githubusercontent.com/118377684/220564440-a1a19412-3d7f-4326-98ed-eb6fac9d07ae.png" width="350" height="350" />
 
-## How to run the app
+**http://moonbase.app**
 
-1. Clone the repo
-1. Create a `.env` file at the project root and provide the following environment variables
 
-    TEST_ENV_VARIABLE="some arbitrary string"
-    CONNECTION_STRING="a url pointing to a PostgreSQL database"
-    PORT="port number to serve the files. defaults to 3000"
+## Live API Endpoint: <http://moonbase.info.gf:3001/v1>
+### View /messages Endpoint: <http://moonbase.info.gf:3001/v1/messages>
+![image](https://user-images.githubusercontent.com/118377684/220571986-6f627057-a46b-43f1-aa4e-50149cf08f64.png)
 
-1. Open a terminal in the project root and run `yarn install` to install the project dependencies.
-1. Run `yarn test` to make sure everything is working correctly.
-1. Run `yarn startdev` to start the development server
-1. Open `http://localhost:3000` or use whatever port you supplied in your environment variable.
-1. Remember to replace the badges with your custom badges
+## 🗺️ Roadmap 
 
-## How to test
+### 👥 Auth - Authentication & User Management / Support & Issue Channels, **Priority #1**
+  - **1.1** SSO - Single Sign On, thirdweb, AuthSignal, userId + postgres, Etc;
+  - **1.2** SSX[^1] - https://docs.ssx.id/reference/ssx-serverless/ssx-serverless.ssxsessioncrudconfig
+  
+ **Sign on as DAO Treasury Member / Multi-Sig 🔑 Holder**
+<img src="https://user-images.githubusercontent.com/118377684/220560015-195d0ca8-4861-42a1-8d86-f4fc77c1a8f2.png" width="650" height="350" />
 
-1. Run `yarn install` to install project dependencies
-1. Run `yarn test`
+### 💠 The DAO Functionality - **Priority #2**
+  - **2.1** Organizations / Councils / Etc;
+  - **2.2** Multi-Sig Key Holders, Delegators & Stakers[^2]
+  - **2.3** NFT Gated Areas/Bots?
+
+### 📑 The CRM/CMS Aspect - **Priority #3**
+  
+  - **3.1** ToDo / Tasks / Projects
+    - 3.1.1 - Calender, Timezones, Clock, Event Planner
+    - 3.1.2 - Trollbox, Chat, news feed?
+    - 3.1.3 - RetroPGF, Quadratic Public Goods Funding Initiatives, Community Properity Engine
+    
+  - **3.2** Teams / Groups / Members 
+    - 3.2.1 - Sub Group, Collaborative team session without DAO
+    - 3.2.2 - Team Management Dashboard / Interface
+    - 3.2.3 - Demo of DAO Rage Quit Option & Member Vesting Options
+    
+    
+    https://github.com/spruceid/ssx
+[^1]: "https://docs.ssx.id/appendix/using-ssx-with-nextauth"
+[^2]: "https://app.safe.global/share/safe-app?appUrl=https%3A%2F%2Fapps.gnosis-safe.io%2Fsiwe-delegate-manager&chain=eth"
